@@ -1,0 +1,29 @@
+Hepatitis C virus - Blood based Detection
+Detect Hepatitis C disease and its stages using blood biomarkers
+
+Blood biomarkers for Hepatitis C virus Detection
+615 cases of laboratory values of blood donors and Hepatitis C patients and demographic values like age.
+
+Data Set Characteristics: Multivariate
+Number of Attributes: 14
+Associated Tasks: Classification, Clustering
+
+Data Set Information:
+The target attribute for classification is Category (blood donors vs. Hepatitis C (including its progress ('just' Hepatitis C, Fibrosis, Cirrhosis).
+
+Attribute Information:
+All attributes except Category and Sex are numerical. The laboratory data are the attributes 5-14.
+1) X (Patient ID/No.)
+2) Category (diagnosis) (values: '0=Blood Donor', '0s=suspect Blood Donor', '1=Hepatitis', '2=Fibrosis', '3=Cirrhosis')
+3) Age (in years)
+4) Sex (f,m)
+5) ALB
+6) ALP
+7) ALT
+8) AST
+9) BIL
+10) CHE
+11) CHOL
+12) CREA
+13) GGT
+14) PROT
